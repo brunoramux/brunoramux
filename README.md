@@ -11,10 +11,16 @@
 
 - 🔭 I’m currently working at Banco do Brasil
 
-- 💬 Ask me about **JavaScript, HTML, CSS, SQL, Node.JS**
-
 - 🌱 I’m currently learning Machine Learning with PyTorch, Node and React/Next
 
+## 🚀 Linguagens de Programação
+[![My Skills](https://skillicons.dev/icons?i=java,python,javascript,c,php)](https://skillicons.dev)<br><br>
+
+## 🛠️ Ferramentas e Tecnologias
+[![My Skills](https://skillicons.dev/icons?i=vscode,eclipse,mysql,bootstrap,git,github)](https://skillicons.dev)<br><br>
+
+
+<br />
 
 
 ![BrunoRamux GitHub stats](https://github-readme-stats.vercel.app/api?username=brunoramux&show_icons=true&theme=radical)
