@@ -21,8 +21,11 @@
 ## 🧰 Frameworks: 
 [![My Skills](https://skillicons.dev/icons?i=react,nest,next,fastify)](https://skillicons.dev)<br><br>
 
-## 🛠️ Ferramentas e Tecnologias
+## 🛠️ Ferramentas e Tecnologias Dev web
 [![My Skills](https://skillicons.dev/icons?i=vscode,git,github,docker,sklearn,pytorch)](https://skillicons.dev)<br><br>
+
+## 🛠️ Ferramentas e Tecnologias Ciência de Dados e IA
+[![My Skills](https://skillicons.dev/icons?i=python,pandas,spark,matplotlib,sklearn,pytorch)](https://skillicons.dev)<br><br>
 
 
 <br>
