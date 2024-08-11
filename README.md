@@ -16,8 +16,11 @@
 ## 🚀 Linguagens de Programação
 [![My Skills](https://skillicons.dev/icons?i=python,javascript,typescript)](https://skillicons.dev)<br><br>
 
+## 🧰 Frameworks: 
+[![My Skills](https://skillicons.dev/icons?i=react,nest,next,fastify)](https://skillicons.dev)
+
 ## 🛠️ Ferramentas e Tecnologias
-[![My Skills](https://skillicons.dev/icons?i=vscode,git,github,docker,nest,next,sklearn,pytorch)](https://skillicons.dev)<br><br>
+[![My Skills](https://skillicons.dev/icons?i=vscode,git,github,docker,sklearn,pytorch)](https://skillicons.dev)<br><br>
 
 
 <br />
