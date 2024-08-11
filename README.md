@@ -2,7 +2,7 @@
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Bruno Ramos</h1>
 
 
-- 🔥 Sênior Web Developer & Instructor focused on helping people start programming 
+- 🔥 Web Developer & Data Scientist
 
 - 🔭 I’m currently working at Banco do Brasil
 
