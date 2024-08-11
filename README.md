@@ -11,7 +11,7 @@
 
 - 🔭 I’m currently working at Banco do Brasil
 
-- 🌱 I’m currently learning Machine Learning with PyTorch, Node and React/Next
+- 🌱 I’m currently learning Machine Learning with PyTorch.
 
 <br><br>
 
