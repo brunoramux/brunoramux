@@ -17,7 +17,7 @@
 [![My Skills](https://skillicons.dev/icons?i=python,javascript,typescript)](https://skillicons.dev)<br><br>
 
 ## 🛠️ Ferramentas e Tecnologias
-[![My Skills](https://skillicons.dev/icons?i=vscode,git,github,docker,jupyter,nest,next,sklearn,pytorch)](https://skillicons.dev)<br><br>
+[![My Skills](https://skillicons.dev/icons?i=vscode,git,github,docker,nest,next,sklearn,pytorch)](https://skillicons.dev)<br><br>
 
 
 <br />
