@@ -13,17 +13,23 @@
 
 - 🌱 I’m currently learning Machine Learning with PyTorch, Node and React/Next
 
+<br><br>
+
 ## 🚀 Linguagens de Programação
 [![My Skills](https://skillicons.dev/icons?i=python,javascript,typescript)](https://skillicons.dev)<br><br>
 
 ## 🧰 Frameworks: 
-[![My Skills](https://skillicons.dev/icons?i=react,nest,next,fastify)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,nest,next,fastify)](https://skillicons.dev)<br><br>
 
 ## 🛠️ Ferramentas e Tecnologias
 [![My Skills](https://skillicons.dev/icons?i=vscode,git,github,docker,sklearn,pytorch)](https://skillicons.dev)<br><br>
 
 
-<br />
+<br>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brunoramux6&layout=donut-vertical)](https://github.com/brunoramux/github-readme-stats)
+
+<br>
 
 
 ![BrunoRamux GitHub stats](https://github-readme-stats.vercel.app/api?username=brunoramux&show_icons=true&theme=radical)
