@@ -25,7 +25,7 @@
 [![My Skills](https://skillicons.dev/icons?i=vscode,git,github,docker,sklearn,pytorch)](https://skillicons.dev)<br><br>
 
 ## 🛠️ Ferramentas e Tecnologias Ciência de Dados e IA
-[![My Skills](https://skillicons.dev/icons?i=python,pandas,spark,matplotlib,sklearn,pytorch)](https://skillicons.dev)<br><br>
+[![My Skills](https://skillicons.dev/icons?i=python,sklearn,pytorch)](https://skillicons.dev)<br><br>
 
 
 <br>
