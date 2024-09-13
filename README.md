@@ -15,16 +15,16 @@
 
 <br><br>
 
-## 🚀 Linguagens de Programação
+## 🚀 Programming languages
 [![My Skills](https://skillicons.dev/icons?i=python,javascript,typescript)](https://skillicons.dev)<br><br>
 
 ## 🧰 Frameworks: 
 [![My Skills](https://skillicons.dev/icons?i=react,nest,next,fastify)](https://skillicons.dev)<br><br>
 
-## 🛠️ Ferramentas e Tecnologias Dev web
+## 🛠️ Tools for Web Dev
 [![My Skills](https://skillicons.dev/icons?i=vscode,git,github,docker)](https://skillicons.dev)<br><br>
 
-## 🛠️ Ferramentas e Tecnologias Ciência de Dados e IA
+## 🛠️ Tools for data analysis and AI
 [![My Skills](https://skillicons.dev/icons?i=python,sklearn,pytorch)](https://skillicons.dev)<br><br>
 
 
