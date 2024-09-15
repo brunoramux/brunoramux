@@ -19,7 +19,7 @@
 [![My Skills](https://skillicons.dev/icons?i=python,javascript,typescript)](https://skillicons.dev)<br><br>
 
 ## 🧰 Frameworks: 
-[![My Skills](https://skillicons.dev/icons?i=react,nest,next,fastify,react-native)](https://skillicons.dev)<br><br>
+[![My Skills](https://skillicons.dev/icons?i=react,next,vite,tailwind,nest,nodejs,prisma)](https://skillicons.dev)<br><br>
 
 ## 🛠️ Tools for Web Dev
 [![My Skills](https://skillicons.dev/icons?i=vscode,git,github,docker)](https://skillicons.dev)<br><br>
