@@ -2,29 +2,26 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 
 
-<h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Bruno Ramos</h1>
+<h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Bruno</h1>
 
 
-- 🔥 Web Developer & Data Scientist
+- 🔭 I’m currently working at Banco do Brasil as Web Dev and Data Scientist
 
-- 🔭 I’m currently working at Banco do Brasil
-
-- 🌱 I’m currently learning Machine Learning with Scikit-learn and PyTorch.
+- 🌱 I’m currently studying Machine Learning and Deep Learning with Scikit-learn and PyTorch.
 
 <br><br>
 
-## 🚀 Programming languages
+## 🚀 Programming languages i use
 [![My Skills](https://skillicons.dev/icons?i=python,javascript,typescript)](https://skillicons.dev)<br><br>
 
-## 🧰 Frameworks: 
+## 🧰 Tools for Web Dev: 
 [![My Skills](https://skillicons.dev/icons?i=react,next,vite,tailwind,nest,nodejs,prisma)](https://skillicons.dev)<br><br>
-
-## 🛠️ Tools for Web Dev
 [![My Skills](https://skillicons.dev/icons?i=vscode,git,github,docker)](https://skillicons.dev)<br><br>
 
-## 🛠️ Tools for data analysis and AI
+## 🛠️ Tools for data analysis and Machine Learning / Deep Learning
 [![My Skills](https://skillicons.dev/icons?i=python,sklearn,pytorch)](https://skillicons.dev)<br><br>
 
 
@@ -33,10 +30,6 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brunoramux&layout=donut-vertical)](https://github.com/brunoramux/github-readme-stats)
 
 <br>
-
-
-![BrunoRamux GitHub stats](https://github-readme-stats.vercel.app/api?username=brunoramux&show_icons=true&theme=radical)
-
 
 <!--
 
