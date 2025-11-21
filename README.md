@@ -18,7 +18,7 @@
 [![My Skills](https://skillicons.dev/icons?i=python,javascript,typescript,java)](https://skillicons.dev)<br><br>
 
 ## 🧰 Tools for Web Dev: 
-[![My Skills](https://skillicons.dev/icons?i=react,next,vite,tailwind,nest,nodejs,prisma)](https://skillicons.dev)<br><br>
+[![My Skills](https://skillicons.dev/icons?i=react,next,vite,tailwind,nest,nodejs,prisma,springboot)](https://skillicons.dev)<br><br>
 [![My Skills](https://skillicons.dev/icons?i=vscode,git,github,docker)](https://skillicons.dev)<br><br>
 
 ## 🛠️ Tools for data analysis and Machine Learning / Deep Learning
