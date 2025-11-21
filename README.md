@@ -19,10 +19,10 @@
 
 ## 🧰 Tools for Web Dev: 
 [![My Skills](https://skillicons.dev/icons?i=react,next,vite,tailwind,nest,nodejs,prisma,spring)](https://skillicons.dev)<br><br>
-[![My Skills](https://skillicons.dev/icons?i=vscode,git,github,docker)](https://skillicons.dev)<br><br>
+
 
 ## 🛠️ Tools for data analysis and Machine Learning / Deep Learning
-[![My Skills](https://skillicons.dev/icons?i=python,sklearn,pytorch)](https://skillicons.dev)<br><br>
+[![My Skills](https://skillicons.dev/icons?i=python,sklearn)](https://skillicons.dev)<br><br>
 
 
 <br>
