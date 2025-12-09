@@ -28,10 +28,6 @@
 
 <br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brunoramux&layout=donut-vertical)](https://github.com/brunoramux/github-readme-stats)
-
-<br>
-
 <!--
 
 <br><br>
