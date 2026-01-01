@@ -11,7 +11,7 @@
 
 [![My Skills](https://skillicons.dev/icons?i=react,next,vite,tailwind,nest,nodejs,prisma,spring)](https://skillicons.dev)<br><br>
 
-[![My Skills](https://skillicons.dev/icons?i=python,sklearn)](https://skillicons.dev)<br><br>
+[![My Skills](https://skillicons.dev/icons?i=sklearn)](https://skillicons.dev)<br><br>
 
 
 <br>
