@@ -3,15 +3,13 @@
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Bruno</h1>
 
 
-- 🔭 I’m currently working at Banco do Brasil as Web Dev
+- 🔭 I’m currently working at Banco do Brasil as Full Stack Software Engineer
 
 <br><br>
 
 [![My Skills](https://skillicons.dev/icons?i=python,javascript,typescript,java)](https://skillicons.dev)<br><br>
 
-[![My Skills](https://skillicons.dev/icons?i=react,next,vite,tailwind,nest,nodejs,prisma,spring)](https://skillicons.dev)<br><br>
-
-[![My Skills](https://skillicons.dev/icons?i=sklearn)](https://skillicons.dev)<br><br>
+[![My Skills](https://skillicons.dev/icons?i=angular,react,next,vite,tailwind,nest,nodejs,prisma,spring)](https://skillicons.dev)<br><br>
 
 
 <br>
