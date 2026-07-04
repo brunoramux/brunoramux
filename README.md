@@ -15,7 +15,7 @@
 
 - 🔭 Technologies that i`m interesting in
 
-[![My Skills](https://skillicons.dev/icons?i=java,oracle,angular,react,next,vite,tailwind,nest,nodejs,prisma,spring)](https://skillicons.dev)<br><br>
+[![My Skills](https://skillicons.dev/icons?i=java,angular,react,next,vite,tailwind,nest,nodejs,prisma,spring)](https://skillicons.dev)<br><br>
 
 
 <br>
