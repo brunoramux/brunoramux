@@ -7,7 +7,13 @@
 
 <br><br>
 
-[![My Skills](https://skillicons.dev/icons?i=python,javascript,typescript,java)](https://skillicons.dev)<br><br>
+- 🔭 Currently work Stack
+
+[![My Skills](https://skillicons.dev/icons?i=typescript,angular,java,quarkus)](https://skillicons.dev)
+
+<br><br>
+
+- 🔭 Tecnologies that i`m interesting in
 
 [![My Skills](https://skillicons.dev/icons?i=angular,react,next,vite,tailwind,nest,nodejs,prisma,spring)](https://skillicons.dev)<br><br>
 
